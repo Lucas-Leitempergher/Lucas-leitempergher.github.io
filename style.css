@@ -70,3 +70,7 @@ a:hover {
     background-color: #C6E2FF ;
     transition: 500ms;
 }
+
+h1 {
+    font-family: 'Lora';
+}
