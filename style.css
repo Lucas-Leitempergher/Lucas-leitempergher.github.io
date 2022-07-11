@@ -37,9 +37,36 @@ h1 {
 }
 
 ul li a {
+    border-radius: 15px;
     height: 53px;
     display: flex;
     align-items: center;
     justify-content: center;
     background: #4263EB;  /* hex: 0 - F */
+}
+
+li.Insta {
+    width: 299px;
+    height: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+li.Twitter {
+    width: 299px;
+    height: 40px; 
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+li.Github {
+    width: 299px;
+    height: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+a:hover {
+    background-color: #C6E2FF ;
+    transition: 500ms;
 }
