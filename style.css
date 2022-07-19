@@ -5,7 +5,7 @@
 }
 
 body {
-    background: #F0FFFF;
+    background: #FFFFF0;
 }
 
 .container {
@@ -42,7 +42,7 @@ ul li a {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #63B8FF;  /* hex: 0 - F */
+    background: #BBFFFF;  /* hex: 0 - F */
 }
 
 .Insta {
@@ -80,19 +80,29 @@ a {
 }
 
 a:link {
-    color: 	#778899;
+    color: 	 #2F4F4F;
 }
 
 a:visited {
-    color: #D8BFD8;
+    color: #FF7F24;
 }
 
 a:active {
     color: 	#483D8B;
 }
 
-.identidade {
-    background-color: aquamarine;
-    transition: 600ms;
-    
+b {
+    font-family: 'Rubik';
+}
+
+b:link {
+    color: 	#2F4F4F;
+}
+
+b:visited {
+    color: #FF7F24;
+}
+
+b:active {
+    color: 	#483D8B;
 }
